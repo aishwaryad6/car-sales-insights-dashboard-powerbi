@@ -112,3 +112,5 @@ The **Car Sales Insights Dashboard** provides actionable insights into dealershi
 - Identify opportunities to improve sales effectiveness  
 
 With this dashboard, sales performance becomes transparent, measurable, and decision-focused.
+
+---
