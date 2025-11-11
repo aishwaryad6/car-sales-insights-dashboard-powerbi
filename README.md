@@ -12,7 +12,7 @@ This project demonstrates my expertise in:
 ---
 
 ## 🎯 Project Objective  
-To build an **interactive and dynamic Power BI dashboard** that provides complete visibility into car sales performance, enabling leadership to:  
+To build an **interactive and dynamic Power BI dashboard** provides complete visibility into car sales performance, enabling leadership to:  
 - Monitor KPIs in real-time  
 - Identify trends & patterns  
 - Make data-driven decisions to increase sales
