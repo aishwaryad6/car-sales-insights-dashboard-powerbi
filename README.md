@@ -101,7 +101,7 @@ The dashboard includes the following analytical visuals:
 ---
 
 ## 🖥 Dashboard Screenshot  
-`![Car Sales Insights Dashboard](car sales dashboard.png)`
+![Car Sales Insights Dashboard](docs/car_sales_dashboard.png)
 
 ---
 
